@@ -1,1 +1,1 @@
-My first local project
+vagrant
